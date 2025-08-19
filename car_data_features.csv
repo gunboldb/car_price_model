@@ -1,0 +1,119 @@
+Feature
+Price
+EngineCC
+ManufactureYear
+ImportYear
+Km
+Doors
+IsCity
+IsElectric
+IsManual
+IsLeftSteering
+DescriptionCharacters
+DescriptionWords
+AdMonth
+AdWeek
+AdWeekDay
+AdMonthDay
+Make_Acura
+Make_Audi
+Make_BMW
+Make_BYD
+Make_Baic
+Make_Bestune
+Make_Cadillac
+Make_Changan
+Make_Chery
+Make_Chevrolet
+Make_Chrysler
+Make_Citroën
+Make_Daewoo
+Make_Daihatsu
+Make_Dodge
+Make_Dongfeng
+Make_Fiat
+Make_Ford
+Make_Foton
+Make_GMC
+Make_GWM
+Make_Geely
+Make_Haval
+Make_Honda
+Make_Hummer
+Make_Hyundai
+Make_Infiniti
+Make_Isuzu
+Make_Jaguar
+Make_Jeep
+Make_Kaiyi
+Make_Kia
+Make_Lada
+Make_Land Rover
+Make_Lexus
+Make_Li Auto
+Make_Lincoln
+Make_Lynk & Co
+Make_MG
+Make_MINI
+Make_Mazda
+Make_Mercedes-Benz
+Make_Mitsubishi
+Make_Nissan
+Make_Opel
+Make_Other
+Make_Peugeot
+Make_Porsche
+Make_Renault
+Make_Russian
+Make_Samsung
+Make_SsangYong
+Make_Subaru
+Make_Suzuki
+Make_Tesla
+Make_Toyota
+Make_Volkswagen
+Make_Volvo
+Make_Škoda
+BodyType_Family
+BodyType_SUV
+BodyType_Sedan
+ColorExterior_Black
+ColorExterior_Blue
+ColorExterior_Bronze
+ColorExterior_Brown
+ColorExterior_Dark grey
+ColorExterior_Dark red
+ColorExterior_Green
+ColorExterior_Grey
+ColorExterior_Light blue
+ColorExterior_Orange
+ColorExterior_Other
+ColorExterior_Pearl white
+ColorExterior_Pink
+ColorExterior_Purple
+ColorExterior_Red
+ColorExterior_White
+ColorExterior_Yellow
+Fuel_Diesel
+Fuel_Electric
+Fuel_Gas/Electric Hybrid
+Fuel_Gasoline
+Fuel_Natural Gas
+ColorInterior_Beige
+ColorInterior_Black
+ColorInterior_Brown
+ColorInterior_Cream
+ColorInterior_Grey
+ColorInterior_Ivory
+ColorInterior_Other
+Leasing_Bank Leasing
+Leasing_NBFI Leasing
+Leasing_No Leasing
+Leasing_Private Leasing
+Drivetrain_AWD/4WD
+Drivetrain_FWD
+Drivetrain_RWD
+Condition_00 Mileage
+Condition_Has Licence Plate
+Condition_New
+Condition_No Licence Plate
